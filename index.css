@@ -1,3 +1,8 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* Puedes ajustar el porcentaje según lo que necesites */
+}
 h1 {
     text-align: center;
     color: #000000;
@@ -22,4 +27,8 @@ td {
 }
 body {background-color: #238df1}
 /* mapa*/
-div {align: center}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
